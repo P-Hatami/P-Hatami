@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @P-Hatami
-- 👀 I’m interested in mathematics
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on MATLAB
-- 📫 How to reach me LinkedIn @parian hatami
+- Mathematician, Entrepreneur
+- MATLAB, C++, codelive, python & CMS experiences 
+- Proudly inspired deeply by Robert Cailliau
+- 📫 Check my professional activities on LinkedIn @parian hatami
 
 <!---
 P-Hatami/P-Hatami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
