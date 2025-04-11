@@ -1,3 +1,4 @@
+- 7+ years in Mathematics, Data Science, Programming, and Machine Learning 
 - Mathematician, Entrepreneur
 - MATLAB, C++, codelive, python & CMS experiences 
 - Proudly inspired deeply by Robert Cailliau
